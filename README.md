@@ -1,1 +1,5 @@
-# Colab
+El libro Diseño de Interfaces Móviles: Patrones de Interacción Humana de Steven Hoober y Eric Berkman explica cómo crear aplicaciones móviles que sean fáciles y cómodas de usar. Los autores destacan la importancia de diseñar pensando en las necesidades reales de las personas, organizando la información de forma clara y aprovechando elementos como menús, botones, gestos táctiles y sensores del dispositivo. Además, promueven experiencias consistentes entre diferentes plataformas para que los usuarios puedan interactuar de manera intuitiva. También resaltan la necesidad de proteger la información personal mediante mecanismos de seguridad que garanticen la privacidad y la confianza de los usuarios. Principio relacionado con la seguridad de los datos Privacidad y protección de la información del usuario: Las aplicaciones móviles deben proteger los datos personales mediante controles de acceso, autenticación segura y un manejo responsable de la información, garantizando la confianza y la seguridad de los usuarios.
+
+Productos pagados de Colab
+-
+Cancela los contratos aquí# Colab
